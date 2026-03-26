@@ -1,8 +1,9 @@
 # 📊 Financial Health Index (FHI) Prediction for SMEs
 
-This project focuses on building a Machine Learning classification model to predict the Financial Health Index (FHI) of Small and Medium Enterprises (SMEs).
+## About
+This challenge provides a rich dataset capturing the financial behaviour, resilience, and operational realities of small and medium-sized enterprises (SMEs) across Eswatini, Lesotho, Malawi, and Zimbabwe. The data is sourced from SME surveys and includes detailed information about business owners, their financial habits, exposure to risks, access to credit, and overall business performance.
 
-The Financial Health Index reflects how financially resilient and well-positioned a business is.
+
 
 ## 🚀 Project Objective
 
